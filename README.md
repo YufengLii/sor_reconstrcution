@@ -1,5 +1,5 @@
-sor_reconstrcution
-使用示例：
+# sor_reconstrcution
+### 使用示例：
 >>rec_sor('./data/example/');
 请选择左右轮廓中的一条（1/2）：
 >>1
